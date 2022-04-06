@@ -1,0 +1,35 @@
+.buttonpomodoro {
+    /* background-color: #f44336; Green */
+    border: none;
+    color: rgb(2, 2, 3);
+    padding: 7px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  .linkpomodoro{
+    text-decoration: none;
+
+  }
+  .buttondashboard {
+    /* background-color: #4CAF50; */
+    border: none;
+    color: rgb(2, 2, 3);
+    padding: 7px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  .linkdashboard{
+    text-decoration: none;
+
+  }
+  

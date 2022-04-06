@@ -1,0 +1,33 @@
+.squaretodo {
+    margin-left: 137px;     
+    width: 15px;
+    height: 15px;
+    background: #00d25b;
+}
+
+.squaredoing {
+    margin-left: 104px;
+    width: 15px;
+    height: 15px;
+    background: #0090e7;
+}
+
+.squaredone {
+    margin-left: 140px;
+    width: 15px;
+    height: 15px;
+    background: #ffab00;
+}
+
+.squareoverdue {
+    margin-left: 116px;
+    width: 15px;
+    height: 15px;
+    background: #fc424a;
+}
+.mauchu{
+    color:white;
+}
+.maunen{
+    background-color:black;
+}
