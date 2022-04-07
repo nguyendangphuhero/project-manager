@@ -54,6 +54,7 @@ const App = () => {
           setRenderedBoard={setRenderedBoard}
         >
           <div className="App">
+            <h1>hello</h1>
             <Loading />
             <Routes />
           </div>
